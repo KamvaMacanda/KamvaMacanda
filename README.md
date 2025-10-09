@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamva Macanda</h1>
 <h3 align="center">A passionate full-stack developer from Cape Town</h3>
 
-- 🔭 I’m currently working on ** Website development for events **
+- 🔭 I’m currently working on **Website development for events**
 
 - 🌱 I’m currently learning **PHP and node.js**
 
