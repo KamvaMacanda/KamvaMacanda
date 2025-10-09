@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **PHP and node.js**
 
 - 👯 I’m looking to collaborate on **any project**
+- Other projects are private 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
